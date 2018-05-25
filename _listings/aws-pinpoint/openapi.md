@@ -24,8 +24,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       - in: query
@@ -56,8 +56,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       - in: query
@@ -97,8 +97,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -114,8 +114,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -131,8 +131,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -149,8 +149,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       - in: query
@@ -177,8 +177,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -195,8 +195,8 @@ paths:
       parameters:
       - in: query
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -244,8 +244,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
@@ -263,8 +263,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: "Specify the media type you will accept as a response:  application/json
-          \u2013 A JSON response body"
+        description: 'Specify the media type you will accept as a response:  application/json  A
+          JSON response body'
         type: string
         format: string
       responses:
