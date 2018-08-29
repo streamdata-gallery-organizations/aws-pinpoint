@@ -19,7 +19,7 @@
               {
                 "key": "accept",
                 "value": "accept",
-                "description": "Specify the media type you will accept as a response:  application/json – A JSON response body",
+                "description": "Specify the media type you will accept as a response:  application/json ??? A JSON response body",
                 "disabled": false
               }
             ],
@@ -52,7 +52,7 @@
               {
                 "key": "accept",
                 "value": "accept",
-                "description": "Specify the media type you will accept as a response:  application/json – A JSON response body",
+                "description": "Specify the media type you will accept as a response:  application/json ??? A JSON response body",
                 "disabled": false
               }
             ],

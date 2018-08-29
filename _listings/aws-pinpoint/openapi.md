@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: AWS Pinpoint
 x-complete: 1
@@ -24,8 +23,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       - in: query
@@ -56,8 +55,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       - in: query
@@ -97,8 +96,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -114,8 +113,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -131,8 +130,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -149,8 +148,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       - in: query
@@ -177,8 +176,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -195,8 +194,8 @@ paths:
       parameters:
       - in: query
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -244,8 +243,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -263,8 +262,8 @@ paths:
       parameters:
       - in: header
         name: accept
-        description: 'Specify the media type you will accept as a response:  application/json  A
-          JSON response body'
+        description: 'Specify the media type you will accept as a response:  application/json
+          ??? A JSON response body'
         type: string
         format: string
       responses:
@@ -384,4 +383,3 @@ paths:
           description: OK
       tags:
       - URI
----
